@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>iOS</string>
+		<key>books</key>
+		<array>
+			<dict>
+				<key>title</key>
+				<string>10 Programming Fundamentals With Swift</string>
+				<key>author</key>
+				<string>Matt Neuburg</string>
+				<key>isbn</key>
+				<string>1491970073</string>
+				<key>stock</key>
+				<integer>60</integer>
+				<key>price</key>
+				<integer>398</integer>
+				<key>language</key>
+				<string>english</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Swift Functional Programming</string>
+				<key>author</key>
+				<string>Fatih Nayebi</string>
+				<key>isbn</key>
+				<string>1787284506</string>
+				<key>stock</key>
+				<integer>12</integer>
+				<key>price</key>
+				<integer>449</integer>
+				<key>language</key>
+				<string>english</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Aprendiendo Swift 3</string>
+				<key>author</key>
+				<string>Julio César Fernández Muñoz</string>
+				<key>isbn</key>
+				<string>154049912X</string>
+				<key>stock</key>
+				<integer>4</integer>
+				<key>price</key>
+				<integer>529</integer>
+				<key>language</key>
+				<string>español</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Android</string>
+		<key>books</key>
+		<array>
+			<dict>
+				<key>title</key>
+				<string>Android Application Development For Dummies</string>
+				<key>author</key>
+				<string>Barry A. Burd</string>
+				<key>isbn</key>
+				<string>1118973801</string>
+				<key>stock</key>
+				<integer>210</integer>
+				<key>price</key>
+				<integer>249</integer>
+				<key>language</key>
+				<string>english</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Web</string>
+		<key>books</key>
+		<array>
+			<dict>
+				<key>title</key>
+				<string>Front-End Fundamentals</string>
+				<key>author</key>
+				<string>Joe Fender</string>
+				<key>isbn</key>
+				<string>1420972313</string>
+				<key>stock</key>
+				<integer>20</integer>
+				<key>price</key>
+				<integer>199</integer>
+				<key>language</key>
+				<string>english</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Desarrollo web con java desde cero</string>
+				<key>author</key>
+				<string>Adrián Guerra Marrero</string>
+				<key>isbn</key>
+				<string>987194974X</string>
+				<key>stock</key>
+				<integer>46</integer>
+				<key>price</key>
+				<integer>119</integer>
+				<key>language</key>
+				<string>español</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Otros</string>
+		<key>books</key>
+		<array>
+			<dict>
+				<key>title</key>
+				<string>Design Patterns</string>
+				<key>author</key>
+				<string>Erich Gamma</string>
+				<key>isbn</key>
+				<string>0201633612</string>
+				<key>stock</key>
+				<integer>213</integer>
+				<key>price</key>
+				<integer>329</integer>
+				<key>language</key>
+				<string>english</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Fundamentos de Bases de Datos con MySQL</string>
+				<key>author</key>
+				<string>Patricia Gonzalez</string>
+				<key>isbn</key>
+				<string>B016KVDR3O</string>
+				<key>stock</key>
+				<integer>90</integer>
+				<key>price</key>
+				<integer>495</integer>
+				<key>language</key>
+				<string>español</string>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>
